@@ -1,0 +1,18 @@
+Epoch 1/7
+100/100 [==============================] - 118s 1s/step - loss: 0.8346 - accuracy: 0.6798 - val_loss: 0.3357 - val_accuracy: 0.8950
+Epoch 2/7
+100/100 [==============================] - 111s 1s/step - loss: 0.4377 - accuracy: 0.8441 - val_loss: 0.2768 - val_accuracy: 0.9013
+Epoch 3/7
+100/100 [==============================] - 101s 1s/step - loss: 0.3805 - accuracy: 0.8681 - val_loss: 0.3033 - val_accuracy: 0.8963
+Epoch 4/7
+100/100 [==============================] - 106s 1s/step - loss: 0.3675 - accuracy: 0.8712 - val_loss: 0.2869 - val_accuracy: 0.9050
+Epoch 5/7
+100/100 [==============================] - 105s 1s/step - loss: 0.3483 - accuracy: 0.8737 - val_loss: 0.2345 - val_accuracy: 0.9262
+Epoch 6/7
+100/100 [==============================] - 103s 1s/step - loss: 0.3026 - accuracy: 0.9019 - val_loss: 0.2710 - val_accuracy: 0.8919
+Epoch 7/7
+100/100 [==============================] - 101s 1s/step - loss: 0.3411 - accuracy: 0.8909 - val_loss: 0.2380 - val_accuracy: 0.9119
+50/50 [==============================] - 19s 377ms/step - loss: 0.0769 - accuracy: 0.9850
+Test accuracy: 0.9850000143051147
+Predicted category: smoke
+Model and class indices have been saved.
